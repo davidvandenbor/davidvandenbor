@@ -4,10 +4,12 @@ I design. I focus on art direction and front-end development using modern trends
 
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
-
-<a href="https://codepen.io/davidvdbor/pens/public" target="_blank"><img src="https://github.com//davidvandenbor/playgrounds/raw/master/README-img/codepen.png" width="40px"></a> <a href="https://github.com/davidvandenbor" target="_blank"><img src="https://github.com//davidvandenbor/playgrounds/raw/master/README-img/github.png" width="40px"></a>
+https://www.linkedin.com/in/davidvdbor/
 
 <a href="https://www.buymeacoffee.com/davidvandenbor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150px"></a>
+<br>
+<a href="https://codepen.io/davidvdbor/pens/public" target="_blank"><img src="https://github.com//davidvandenbor/playgrounds/raw/master/README-img/codepen.png" width="40px"></a> <a href="https://github.com/davidvandenbor" target="_blank"><img src="https://github.com//davidvandenbor/playgrounds/raw/master/README-img/github.png" width="40px"></a>
+
 
 -----------------------
 
