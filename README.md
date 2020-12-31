@@ -18,11 +18,11 @@ https://www.linkedin.com/in/davidvdbor/
 
 ### Visit the **playground** at: https://davidvandenbor.github.io/playgrounds/
 
-An overview page of my code snippets archive, pushed to **Plunker** and **CodeSandbox**. Each code snippet sits inside a virtual "Playground". You can play around with the code: code **updates live in preview windows**! You can also open each Playground in a new larger window for comfortable editing. My playgrounds are individually hosted on Github as repos, and are automatically updated/pushed to Codesandbox previews!
+An overview page of my code snippets archive, pushed to **CodeSandbox**. Each code snippet sits inside a virtual "Playground". You can play around with the code: in Codesandbox the snippets **update live in preview windows**! You can also open each Playground in a new larger window for tinkering and editing. My playgrounds are individually hosted on Github as repos, and are automatically updated/pushed to Codesandbox previews!
 
 ## The reasoning behind it
 
-It became difficult for me to manage my Codepens on codepen.io. There wasn't an easy way to back them up, and there was no archive management or version control. I also wanted to have playgrounds similar to Codepen, but without constantly having to manually create Codepens by hand or maintaining a second parrallel code base to my original snippet collection. With [CodeSandbox](https://codesandbox.io/) I don't need to make "physical" playgrounds. The repo's get pushed to CodeSandbox, where they are displayed/showcased automatically.
+It became difficult for me to manage my Codepens on codepen.io. There wasn't an easy way to back them up, and there was no archive management or version control. I also wanted to have playgrounds similar to Codepen, but without constantly having to manually create Codepens by hand or maintaining a second parrallel code base to my original snippet collection. With [CodeSandbox](https://codesandbox.io/) I don't need to make "physical" playgrounds. The repo's automatically get "pushed" to CodeSandbox, where they are displayed/showcased.
 
 The flow more or less looks like this:
 
