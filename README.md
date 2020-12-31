@@ -1,7 +1,4 @@
-![David van den Bor](https://www.davidvandenbor.nl/intro-github.jpeg)
-
-# David van den Bor
-### Art director / Frontend Developer / Interaction Designer @ Studio VandenBor
+### Art director / Frontend Developer @ Studio VandenBor
 
 I design. I focus on art direction and front-end development using modern trends and skills. I also combine art direction with web design and front-end development on almost all of my projects.
 
