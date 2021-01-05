@@ -40,6 +40,8 @@ https://davidvandenbor.github.io/playgrounds/oefening-css-grid/
 
 https://github.com/davidvandenbor/html-includes-with-standard-javascript <br>
 https://github.com/davidvandenbor/css-media-queries <br>
+https://github.com/davidvandenbor/css-grid-lines <br>
+https://github.com/davidvandenbor/css-grid-areas <br>
 https://github.com/davidvandenbor/navigation-desktop-mobile <br>
 https://github.com/davidvandenbor/css-animation-via-intersection-observers <br>
 https://github.com/davidvandenbor/css-animation-linked-to-scrollbar <br>
